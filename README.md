@@ -1,4 +1,4 @@
-# Hi, I'm Charan 👋
+# Hi, I'm Charan 👋 
 
 **MSc Plant Biotechnology (University College Dublin) | Bioinformatics | Python & R | GMP-trained**
 📍 Dublin, Ireland
