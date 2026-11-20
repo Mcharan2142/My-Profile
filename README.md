@@ -9,18 +9,12 @@ I'm a biotechnology graduate who combines hands-on wet-lab experience (aseptic p
 
 | Project | What I did | Tools |
 |---|---|---|
-| [Microbiome Metagenomic Profiling] |
-      Built a pipeline from raw reads to taxonomic classification and visualisation across four samples | Fastp, Filtlong, NanoPlot, Kraken2, Krona |
-| [Arabidopsis Spaceflight Meta-transcriptomics]
-      Analysed NASA GeneLab data to test for spaceflight-associated shifts in the Arabidopsis microbiome | Kraken2, DESeq2, PERMANOVA |
-| [Variant Detection & Molecular Evolution] |
-     Identified a disease-causing PAH mutation (Phenylketonuria) from raw Illumina reads and detected positive selection in GLYCTK | Variant calling, IQ-TREE, MEME |
-| [Zebrafish Thermal Stress RNA-seq] |
-      Characterised gene expression changes under thermal stress and identified WNT5A as a regulatory hub | HISAT2, StringTie, DESeq2 |
-| [Barley Salinity Stress Analysis] |
-       Compared salinity tolerance of two cultivars using growth phenotyping and proline assays | R / Python |
-| [Brain Tumor Detection & Segmentation]
-       Co-developed a deep-learning web app for MRI classification and segmentation (84.6% test accuracy) | Python, Deep Learning |
+| [Microbiome Metagenomic Profiling](link) | Built a pipeline from raw reads to taxonomic classification and visualisation across four samples | Fastp, Filtlong, NanoPlot, Kraken2, Krona |
+| [Arabidopsis Spaceflight Meta-transcriptomics](link) | Analysed NASA GeneLab data to test for spaceflight-associated shifts in the Arabidopsis microbiome | Kraken2, DESeq2, PERMANOVA |
+| [Variant Detection & Molecular Evolution](link) | Identified a disease-causing PAH mutation (Phenylketonuria) from raw Illumina reads and detected positive selection in GLYCTK | Variant calling, IQ-TREE, MEME |
+| [Zebrafish Thermal Stress RNA-seq](link) | Characterised gene expression changes under thermal stress and identified WNT5A as a regulatory hub | HISAT2, StringTie, DESeq2 |
+| [Barley Salinity Stress Analysis](link) | Compared salinity tolerance of two cultivars using growth phenotyping and proline assays | R / Python |
+| [Brain Tumor Detection & Segmentation](link) | Co-developed a deep-learning web app for MRI classification and segmentation (84.6% test accuracy) | Python, Deep Learning |
 
 ## 🛠️ Skills
 
@@ -37,6 +31,6 @@ I'm a biotechnology graduate who combines hands-on wet-lab experience (aseptic p
 ## 📫 Get in touch
 
 - Email: charanman122000@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sai-sree-charan-manthrirao-86ab44267
+- LinkedIn: [add your link]
 
-*Currently looking for graduate opportunities in biopharma and bioinformatics.*# My-Profile
+*Currently looking for graduate opportunities in biopharma and bioinformatics.*
