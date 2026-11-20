@@ -31,6 +31,6 @@ I'm a biotechnology graduate who combines hands-on wet-lab experience (aseptic p
 ## 📫 Get in touch
 
 - Email: charanman122000@gmail.com
-- LinkedIn: [add your link]
+- LinkedIn: https://www.linkedin.com/in/sai-sree-charan-manthrirao-86ab44267 
 
 *Currently looking for graduate opportunities in biopharma and bioinformatics.*
